@@ -1,4 +1,4 @@
-package pkg100daysofjava;
+package day01;
 
 public class FirstProgrammer {
 

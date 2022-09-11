@@ -1,7 +1,10 @@
 package Methods;
 
 public class ParametrizedMethod {
-    //Declaring the method
+    // The parameters passed to function/method are called actual parameters
+    // whereas the parameters received by function/method are called formal parameters.
+
+    // Declaring the method
     static void printGivenInfo(String name,String country,int phone){
         System.out.println("Username =>"+name+", Country => "+country+", Phone => "+phone);
     }

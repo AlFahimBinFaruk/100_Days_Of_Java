@@ -22,4 +22,5 @@
 * <a href="https://www.youtube.com/watch?v=0ZOmylyFZQQ">Netbeans Keyboard shortcut</a>
 * <a href="https://www.geeksforgeeks.org/constructor-overloading-java/">Constructor overloading</a>
 * <a href="https://www.youtube.com/watch?v=8S7I2Z5yqNQ">Difference between Constructor And Method</a>
+* <a href="https://www.geeksforgeeks.org/inheritance-in-java/">Inheritance in Java</a>
 

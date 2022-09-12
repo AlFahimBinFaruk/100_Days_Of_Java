@@ -11,5 +11,5 @@
 * <a href="https://www.youtube.com/watch?v=kzUUW4BSSG0">Why Java does not support Multiple Inheritance</a>
 
 ### Multilevel and Hierarchical Inheritance Demo Image.
-*  ![](/images/inheritanceEx.PNG)
+* ![](F:\Java\Day08\images\inheritanceEx.PNG)
 

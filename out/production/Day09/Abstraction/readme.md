@@ -1,6 +1,7 @@
 ### What is Abstraction?
 * Data abstraction is the process of hiding certain details and showing only essential information to the user.
   Abstraction can be achieved with either **abstract** classes or **interfaces** 
+* Abstraction refers to hiding the internal implementation of the feature and only showing the functionality to the users.
 * Only classes and methods can be abstracted.
 
 * In java, abstraction is achieved by interfaces and abstract classes. 
@@ -15,6 +16,8 @@
   
 * An abstract class can have both abstract and regular methods.
 * If you extend an abstract class you have to use all it's abstract methods.Or you have to declare the sub-class abstract itself.
+* Members of a Java interface are public by default. 
+* A Java abstract class can have class members like private, protected, etc.
 
 ### Abstract classes and Abstract methods :
   * An abstract class is a class that is declared with an abstract keyword.

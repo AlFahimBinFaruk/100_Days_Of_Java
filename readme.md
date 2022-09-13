@@ -3,9 +3,11 @@
 ### Important concepts
 * Classes.
 * Methods.
-  * Over loading
-  * Over riding
+  * Overloading
+  * Overriding
 * Java Packages.
+  * Built-in.
+  * User Defined.
 * Constructors.
   * Over loading
   * Over riding

@@ -18,6 +18,8 @@
 * Recursion.
 * Iterations =>for,forEach,While loop.
 * Interfaces.
+* Type Casting.
+* Type conversion.
 
 ### Important concepts of OOP.
 * Encapsulation.

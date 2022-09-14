@@ -5,3 +5,7 @@
     * byte -> short -> char -> int -> long -> float -> double
   * Narrowing Casting (manually) - converting a larger type to a smaller size type
     * double -> float -> long -> int -> char -> short -> byte
+
+### Important resources
+* <a href="https://www.w3schools.com/java/java_type_casting.asp">Java Type Casting</a>
+* <a href="https://www.youtube.com/watch?v=1YineNi4164">Java Type casting,Upcasting & Down casting</a>

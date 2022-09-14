@@ -19,7 +19,10 @@
 * Iterations =>for,forEach,While loop.
 * Interfaces.
 * Type Casting.
-* Type conversion.
+* Object Type Casting.
+* Type Conversion.
+* Anonymous Class.
+* Exception Handing.
 
 ### Important concepts of OOP.
 * Encapsulation.

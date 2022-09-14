@@ -23,6 +23,7 @@
 * Type Conversion.
 * Anonymous Class.
 * Exception Handing.
+* Linked List.
 
 ### Important concepts of OOP.
 * Encapsulation.

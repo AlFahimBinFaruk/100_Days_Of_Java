@@ -24,6 +24,9 @@
 * Anonymous Class.
 * Exception Handing.
 * Linked List.
+* Hash map.
+* Hash set.
+* File System.
 
 ### Important concepts of OOP.
 * Encapsulation.

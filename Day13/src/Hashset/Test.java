@@ -17,6 +17,10 @@ public class Test {
         nameList.add("Borhan");// duplicate
         nameList.add("borhan");// not duplicate
 
+
+        // check if the hashset is empty.
+        System.out.println("Hash set empty => "+nameList.isEmpty());
+
         // print whole hash set.
         System.out.println("Hashset name list => "+nameList);
 

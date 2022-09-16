@@ -37,7 +37,11 @@ public class ArrayListDemo {
 //      *** change an item
 //      before
         System.out.println("Prev value => " + cars.get(2));
-        cars.set(2, "Porche");
+        cars.set(2, "Porche One");
+
+//      add new item
+        cars.add(3, "Porche");
+        System.out.println("Initial structure => " + cars);
 //      after
         System.out.println("After value => " + cars.get(2));
 

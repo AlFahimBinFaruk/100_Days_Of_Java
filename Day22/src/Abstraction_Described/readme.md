@@ -38,6 +38,19 @@ Consider a classic “shape” example, perhaps used in a computer-aided design 
 * Encapsulated classes are java classes that follow data hiding and abstraction while We can implement abstraction by using abstract classes and interfaces.
 * Encapsulation is a procedure that takes place at the implementation level, while abstraction is a design-level process.
 
+### Notes on Interfaces:
+* Like abstract classes, interfaces **cannot be used to create objects** .
+* Interface methods do not have a body - the body is provided by the "implement" class
+* On implementation of an interface, you **must override** all of its methods
+* Interface methods are by default **abstract** and **public**
+* Interface attributes are by default **public**, **static** and **final**
+* An interface cannot contain a **constructor** (as it cannot be used to create objects).
+
+#### Why And When To Use Interfaces?
+* To achieve security - hide certain details and only show the important details of an object (interface).
+* Java does not support "multiple inheritance" (a class can only inherit from one superclass). However, it can be achieved with interfaces, because the class can implement multiple interfaces. Note: To implement multiple interfaces, separate them with a comma (see example below).
+
 ### Resources
 * [Abstraction in Java - geeks for geeks](https://www.geeksforgeeks.org/abstraction-in-java-2/)
 * [Abstraction in Java - w3Schools](https://www.w3schools.com/java/java_abstract.asp)
+* [Interface in Java - w3Schools](https://www.w3schools.com/java/java_interface.asp)

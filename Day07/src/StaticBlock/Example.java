@@ -4,7 +4,7 @@ public class Example {
     //Read this : https://www.geeksforgeeks.org/static-blocks-in-java/
     //static block executes automatically when the class is loaded in memory
 
-    //because non-static member cannot be used inside static member.
+    //because non-static member cannot be used inside static block.
     //By member , I mean method,variables,constructor,block
     static String name,address;
 

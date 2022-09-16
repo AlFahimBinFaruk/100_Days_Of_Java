@@ -27,6 +27,9 @@
 * Hash map.
 * Hash set.
 * File System.
+* Block.
+* Static Block.
+* Scope in Java.
 
 ### Important concepts of OOP.
 * Encapsulation.

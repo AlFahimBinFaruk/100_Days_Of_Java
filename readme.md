@@ -32,6 +32,8 @@
 * Block.
 * Static Block.
 * Scope in Java.
+* String Methods.
+* Math Methods.
 
 ### Important concepts of OOP.
 * Encapsulation.

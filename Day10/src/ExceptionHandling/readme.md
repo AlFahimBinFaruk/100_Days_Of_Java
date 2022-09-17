@@ -1,4 +1,4 @@
-### Exception Handling.
+`### Exception Handling.
 * Exception Handling in Java is one of the effective means to handle the runtime errors ,
   so that the regular flow of the application can be preserved.Exceptions can be caught and handled by the program.
 
@@ -43,4 +43,4 @@
 ### Important resources.
 * <a href="https://www.youtube.com/watch?v=ucpUzdqDubs">Exception Handling - theory </a>
 * <a href="https://www.youtube.com/watch?v=p4p5VujIkUo">Exception Handling - practical </a>
-* <a href="https://www.geeksforgeeks.org/exceptions-in-java">Exceptions is Java</a>
+* <a href="https://www.geeksforgeeks.org/exceptions-in-java">Exceptions is Java</a>`

@@ -12,3 +12,8 @@
 * A block of code may exist on its own or it can belong to an if, while or for statement. 
   In the case of for statements, variables declared in the statement itself are also available 
   inside the block's scope.
+  * This means if we declare anything new inside if,else statement ,for,while loops they are also block statement,
+   they cannot be accessed outside.
+
+### Important resources 
+* [Java Scope.](https://www.w3schools.com/java/java_scope.asp)

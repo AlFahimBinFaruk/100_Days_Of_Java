@@ -34,6 +34,7 @@
 * Scope in Java.
 * String Methods.
 * Math Methods.
+* Thread in Java.
 
 ### Important concepts of OOP.
 * Encapsulation.

@@ -15,7 +15,7 @@
     and it does not have a body. The body is provided by the subclass (inherited from).
   
 * An abstract class can have both abstract and regular methods.
-* If you extend an abstract class you have to use all it's abstract methods.Or you have to declare the sub-class abstract itself.
+* If you extend an abstract class / interface you have to use all it's abstract methods.Or you have to declare the sub-class abstract itself.
 * Members of a Java interface are public by default. 
 * A Java abstract class can have class members like private, protected, etc.
 

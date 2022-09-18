@@ -36,6 +36,7 @@
 * Math Methods.
 * Thread in Java.
 * Iterators.
+* Inner class/Nested class.
 
 ### Important concepts of OOP.
 * Encapsulation.

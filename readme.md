@@ -37,6 +37,7 @@
 * Thread in Java.
 * Iterators.
 * Inner class/Nested class.
+* Enums.
 
 ### Important concepts of OOP.
 * Encapsulation.

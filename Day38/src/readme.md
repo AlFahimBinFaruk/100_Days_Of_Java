@@ -1,3 +1,6 @@
+#### Note
+* Every conversion is done through **Integer** class.
+
 #### Decimal to Hexadecimal,Octal,Binary
 * [Convert decimal to binary-octal-hexadecimal](https://www.sanfoundry.com/java-program-convert-decimal-binary-octal-hexadecimal-number/)
 

@@ -38,7 +38,9 @@
 * Iterators.
 * Inner class/Nested class.
 * Enums.
-* Regex
+* Regex.
+* Lambda.
+  * Use in complex abstraction related programs(Day 39)
 
 ### Important concepts of OOP.
 * Encapsulation.

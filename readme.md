@@ -38,6 +38,7 @@
 * Iterators.
 * Inner class/Nested class.
 * Enums.
+* Regex
 
 ### Important concepts of OOP.
 * Encapsulation.

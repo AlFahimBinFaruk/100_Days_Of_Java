@@ -41,6 +41,7 @@
 * Regex.
 * Lambda.
   * Use in complex abstraction related programs(Day 39)
+* Garbage Collection.
 
 ### Important concepts of OOP.
 * Encapsulation.

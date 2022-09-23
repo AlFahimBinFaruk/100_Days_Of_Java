@@ -2,6 +2,7 @@
 
 ### Important concepts
 * Classes.
+  * Singleton class.
 * Methods.
   * Overloading
   * Overriding

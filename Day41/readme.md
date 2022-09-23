@@ -1,0 +1,2 @@
+### Topics.
+* Singleton class.

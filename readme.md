@@ -43,6 +43,8 @@
 * Lambda.
   * Use in complex abstraction related programs(Day 39)
 * Garbage Collection.
+* Generics.
+* Object Cloning.
 
 ### Important concepts of OOP.
 * Encapsulation.

@@ -2,8 +2,7 @@ package Generics.Generics_Functions;
 
 public class ExampleOne {
     // A Generic method example
-    static <T> void genericDisplay(T element)
-    {
+    static <T> void genericDisplay(T element) {
         System.out.println("Type : "+element.getClass().getName()
                 + " and value : " + element);
     }

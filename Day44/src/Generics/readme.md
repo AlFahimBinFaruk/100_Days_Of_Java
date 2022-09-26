@@ -46,3 +46,6 @@ ArrayList<int[]> a = new ArrayList<>();
 * **Individual Type Casting is not needed:** If we do not use generics, then every time we retrieve data from ArrayList, we have to typecast it. Typecasting at every retrieval operation is a big headache. If we already know that our list only holds string data, we need not typecast it every time.
 * **Generics Promotes Code Reusability:** With the help of generics in Java, we can write code that will work with different types of data.
 * **Implementing Generic Algorithms:** By using generics, we can implement algorithms that work on different types of objects, and at the same, they are type-safe too
+
+### Resources
+* [Generics - geeks for geeks](https://www.geeksforgeeks.org/generics-in-java/)

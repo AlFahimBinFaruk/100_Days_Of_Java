@@ -44,6 +44,7 @@
   * Use in complex abstraction related programs(Day 39)
 * Garbage Collection.
 * Generics.
+  * WildCards
 * Object Cloning.
 
 ### Important concepts of OOP.
